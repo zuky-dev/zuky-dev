@@ -12,7 +12,7 @@ Graduate (Engineer) under FEI STU, Applied Informatics.
 * 🌍  I'm based in Slovakia
 * ✉️  You can contact me at [zuky.dev@gmail.com](mailto:zuky.dev@gmail.com)
 * 🧠  I'm learning everything Laravel + Vue/Alpine/Inertia related (coding -> deployment)
-* ⚡  asdasd
+<!-- * ⚡   -->
 
 ### Main Skills
 
