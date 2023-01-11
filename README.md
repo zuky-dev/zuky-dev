@@ -14,23 +14,34 @@ Graduate (Engineer) under FEI STU, Applied Informatics.
 * 🧠  I'm learning everything Laravel + Vue/Alpine/Inertia related (coding -> deployment)
 <!-- * ⚡   -->
 
-### Main Skills
+### My Stack (Main Skills)
 
 <p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 #### Other Skills
 
 <p align="left">
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://logojinni.com/image/logos/alpinejs.svg" width="36" height="36" alt="Alpine" /></a>
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/d3/d3-logo/6d9c471aa852033501d00ca63fe73d9f8be82d1d/d3.svg" width="36" height="36" alt="D3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="vite" /></a>
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=alpinejs" width="36" height="36" alt="AlpineJS" /></a>
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=d3" width="36" height="36" alt="D3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+#### Other Interests
+
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=raspberrypi" width="36" height="36" alt="Raspberry Pi" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="Gitlab CI/CD" /></a>
+<a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" /></a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/zuky-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukáš-odler" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/zuky-dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukáš-odler" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
