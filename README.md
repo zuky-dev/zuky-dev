@@ -5,11 +5,10 @@
 <img src="https://img.shields.io/badge/-Developer-161616?style=for-the-badge" alt="Developer" />
 </p>
 
-<h1 align="center"> Hey im Zuky! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /></h1>
+<h1 align="center"> Hey I'm Zuky! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /></h1>
 
 I'm (mostly) a BE developer with 3+ yrs of experience in building CMS/CRM/Eshop systems.<br>
-Also interested in FE development which I develop predominantly Vue3/Alpine + Bootstrap.<br>
-Graduate (Engineer) under FEI STU, Applied Informatics.
+Also interested in FE development which I develop predominantly Vue3/Alpine + Bootstrap.
 
 
 * 🌍  I'm based in Slovakia
