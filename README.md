@@ -1,18 +1,22 @@
-:metal: Hello I'm Zuky :metal:
-============================
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🤘%20zuky.dev%20🤘&width=800&height=200)
+<p align="center">
+<img src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+<img src="https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/-Developer-161616?style=for-the-badge" alt="Developer" />
+</p>
 
-Vue.Laravel.Developer
----------------------
+<h1 align="center"> Hey im Zuky! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /></h1>
 
-BE developer with 3+ yrs of experience in building CMS/CRM/Eshop systems.<br>
+I'm (mostly) a BE developer with 3+ yrs of experience in building CMS/CRM/Eshop systems.<br>
 Also interested in FE development which I develop predominantly Vue3/Alpine + Bootstrap.<br>
 Graduate (Engineer) under FEI STU, Applied Informatics.
 
 
 * 🌍  I'm based in Slovakia
+* 🏢  Im' currently <img src="https://img.shields.io/badge/-closed-critical?style=flat-square" alt="closed" /> for work
 * ✉️  You can contact me at [zuky.dev@gmail.com](mailto:zuky.dev@gmail.com)
 * 🧠  I'm learning everything Laravel + Vue/Alpine/Inertia related (coding -> deployment)
-<!-- * ⚡   -->
+* ⚡  Enjoying life, sport, music and coding
 
 ### My Stack (Main Skills)
 
@@ -42,6 +46,21 @@ Graduate (Engineer) under FEI STU, Applied Informatics.
 <a href="https://tauri.app/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" /></a>
 </p>
 
-### Socials
+<!-- ### Other forms  of contact
 
-<p align="left"> <a href="https://www.github.com/zuky-dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukáš-odler" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/zuky-dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukáš-odler" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a></p> -->
+
+## Work Experience & Education
+
+- <img src="https://www.orange.com/themes/theme_boosted/Master_Logo_RGB.png" width="25"> **Orange**
+  - **Developer**
+    - September 2022 – Present
+- <img src="https://www.dataid.sk/frontend/img/dataid-logo.svg" width="25"> **Dataid**
+  - **Junior -> Senior Backend developer**
+    - September 2019 – Present
+- <img src="https://www.fei.stuba.sk/buxus/assets/images/logo_fei.svg" width="25"> FEI STU
+  - Engineer degree (Applied Informatics)
+    - 2022
+
+## Enjoy the music I'm listening to
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=psrn4sk1ntb5mh6jqqv1f58on&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
