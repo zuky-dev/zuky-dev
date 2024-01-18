@@ -1,11 +1,11 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🤘%20zuky.dev%20🤘&width=800&height=200)
 <p align="center">
-<img src="https://img.shields.io/badge/-Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
+<img src="https://img.shields.io/badge/-Alpine-2e3440?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine" />
 <img src="https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/-Developer-161616?style=for-the-badge" alt="Developer" />
 </p>
 
-<h1 align="center"> Hey I'm Zuky! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /></h1>
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /><br>I'm Zuky, nice to meet you!</h1>
 
 I'm (mostly) a BE developer with 3+ yrs of experience in building CMS/CRM/Eshop systems.<br>
 Also interested in FE development which I develop predominantly Vue3/Alpine + Bootstrap.
@@ -17,22 +17,22 @@ Also interested in FE development which I develop predominantly Vue3/Alpine + Bo
 * 🧠  I'm learning everything Laravel + Vue/Alpine/Inertia related (coding -> deployment)
 * ⚡  Enjoying life, sport, music and coding
 
-### My Stack (Main Skills)
+### My LAMB Stack (Main Skills)
 
 <p align="left">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=alpinejs" width="36" height="36" alt="AlpineJS" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
 #### Other Skills
 
 <p align="left">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="vite" /></a>
-<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=alpinejs" width="36" height="36" alt="AlpineJS" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" /></a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=d3" width="36" height="36" alt="D3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
 #### Other Interests
@@ -60,6 +60,3 @@ Also interested in FE development which I develop predominantly Vue3/Alpine + Bo
 - <img src="https://www.fei.stuba.sk/buxus/assets/images/logo_fei.svg" width="25"> FEI STU
   - Engineer degree (Applied Informatics)
     - 2022
-
-## Enjoy the music I'm listening to
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=psrn4sk1ntb5mh6jqqv1f58on&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)
