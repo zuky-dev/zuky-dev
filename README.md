@@ -14,7 +14,7 @@ Also interested in FE development which I develop predominantly Vue3/Alpine + Bo
 * 🌍  I'm based in Slovakia
 * 🏢  Im' currently <img src="https://img.shields.io/badge/-closed-critical?style=flat-square" alt="closed" /> for work
 * ✉️  You can contact me at [zuky.dev@gmail.com](mailto:zuky.dev@gmail.com)
-* 🧠  I'm learning everything Laravel + Vue/Alpine/Inertia related (coding -> deployment)
+* 🧠  I'm learning everything Laravel + Vue/Alpine/Livewire related (coding -> deployment)
 * ⚡  Enjoying life, sport, music and coding
 
 ### My LAMB Stack (Main Skills)
@@ -51,12 +51,12 @@ Also interested in FE development which I develop predominantly Vue3/Alpine + Bo
 
 ## Work Experience & Education
 
+- <img src="https://www.dataid.sk/frontend/img/dataid-logo.svg" width="25"> **Dataid**
+  - **Senior Backend developer**
+    - September 2019 – Present
 - <img src="https://www.orange.com/themes/theme_boosted/Master_Logo_RGB.png" width="25"> **Orange**
   - **Developer**
-    - September 2022 – Present
-- <img src="https://www.dataid.sk/frontend/img/dataid-logo.svg" width="25"> **Dataid**
-  - **Junior -> Senior Backend developer**
-    - September 2019 – Present
+    - September 2022 – March 2024
 - <img src="https://www.fei.stuba.sk/buxus/assets/images/logo_fei.svg" width="25"> FEI STU
-  - Engineer degree (Applied Informatics)
+  - Engineering degree (Applied Informatics)
     - 2022
