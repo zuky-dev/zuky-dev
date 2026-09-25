@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-Developer-161616?style=for-the-badge" alt="Developer" />
 </p>
 
-<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /><br>I'm Zuky, nice to meet you!</h1>
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns.png" alt="Sign of the Horns" width="25" height="25" /><br>I'm Marek, nice to meet you!</h1>
 
 I'm (mostly) a BE developer with 3+ yrs of experience in building CMS/CRM/Eshop systems.<br>
 Also interested in FE development which I develop predominantly Vue3/Alpine + Bootstrap.
